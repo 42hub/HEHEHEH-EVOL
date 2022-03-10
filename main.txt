@@ -1,0 +1,7 @@
+version: 0
+directCommands: []
+forceUpdate: False
+connectTo: []
+checkTime: 7200
+placeHolderA: 0
+placeHolderB: 0
