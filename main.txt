@@ -2,6 +2,7 @@ version: 0
 directCommands: []
 forceUpdate: False
 connectTo: []
-checkTime: 7200
+checkTime: 86400
+checkOnStartup: True
 placeHolderA: 0
 placeHolderB: 0
